@@ -6,8 +6,6 @@ My full name is Tô Châu Trí Dũng, born in 2003
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfs-adreno&label=Profile%20views&color=0e75b6&style=flat" alt="rfs-adreno" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfs-adreno" alt="rfs-adreno" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dungto213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dungto213" height="30" width="40" /></a>
