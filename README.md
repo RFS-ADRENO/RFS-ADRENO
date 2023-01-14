@@ -2,7 +2,7 @@
 
 My full name is Tô Châu Trí Dũng, born in 2003
 
-![KASUMI xD](https://i.ibb.co/nM83wgp/toyama-kasumi-bang-dream.gif)
+![KASUMI xD]([https://i.ibb.co/nM83wgp/toyama-kasumi-bang-dream.gif](https://i.ibb.co/dLvBV5F/d19xte1zmdw51.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfs-adreno&label=Profile%20views&color=0e75b6&style=flat" alt="rfs-adreno" /> </p>
 
