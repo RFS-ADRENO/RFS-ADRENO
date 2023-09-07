@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm DimensityDU
 
-My full name is Tô Châu Trí Dũng, born in 2003
-
 ![KASUMI xD](https://i.ibb.co/N3MD5Mn/d19xte1zmdw51-1-1.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfs-adreno&label=Profile%20views&color=0e75b6&style=flat" alt="rfs-adreno" /> </p>
