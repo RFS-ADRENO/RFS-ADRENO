@@ -1,4 +1,4 @@
-### Hi there 👋, I'm DimensityDU
+### Hi there 👋, I'm Grosse
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfs-adreno&label=Profile%20views&color=0e75b6&style=flat" alt="rfs-adreno" /> </p>
 
